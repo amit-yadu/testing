@@ -1,0 +1,7 @@
+1-git init (Create .git)
+2-git remote add-url "https://github.com/amit-yadu/testing.git"
+
+if check 
+git remote -v
+
+3-git add .
